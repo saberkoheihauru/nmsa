@@ -59,7 +59,7 @@ a {
 }
 
 .Line{
-background-color:green;
+background-color:　#ff4500;
 }
 
 .btn {
@@ -272,8 +272,4 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
-}
-
-.Line {
-  background-color: red;
 }
